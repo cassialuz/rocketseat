@@ -18,7 +18,7 @@ Iniciando no Front-End com um programa exclusivo e gratuito da RocketSeat para e
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto DevLinks" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
